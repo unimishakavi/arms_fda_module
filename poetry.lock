@@ -47,7 +47,7 @@ test = ["astroid", "pytest"]
 name = "attrs"
 version = "22.1.0"
 description = "Classes Without Boilerplate"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.5"
 
@@ -121,7 +121,7 @@ colorama = {version = "*", markers = "platform_system == \"Windows\""}
 name = "colorama"
 version = "0.4.6"
 description = "Cross-platform colored terminal text."
-category = "dev"
+category = "main"
 optional = false
 python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,!=3.6.*,>=2.7"
 
@@ -201,7 +201,7 @@ python-versions = ">=3.6"
 name = "exceptiongroup"
 version = "1.0.4"
 description = "Backport of PEP 654 (exception groups)"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.7"
 
@@ -300,7 +300,7 @@ testing = ["flake8 (<5)", "flufl.flake8", "importlib-resources (>=1.3)", "packag
 name = "iniconfig"
 version = "1.1.1"
 description = "iniconfig: brain-dead simple config-ini parsing"
-category = "dev"
+category = "main"
 optional = false
 python-versions = "*"
 
@@ -776,7 +776,7 @@ test = ["appdirs (==1.4.4)", "pytest (>=7.2)", "pytest-cov (>=4)", "pytest-mock 
 name = "pluggy"
 version = "1.0.0"
 description = "plugin and hook calling mechanisms for python"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -875,7 +875,7 @@ python-versions = ">=3.7"
 name = "pytest"
 version = "7.2.0"
 description = "pytest: simple powerful testing with Python"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.7"
 
@@ -1354,7 +1354,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10.0"
-content-hash = "788b152a4023f7f955cdd415820f1d946f04a046ca30712f963847e272b70c8b"
+content-hash = "b6ed2bcb51e643d8c858bc895571785245fbec8eaae57ccfe7ba1d17bfb0f24a"
 
 [metadata.files]
 alabaster = [
