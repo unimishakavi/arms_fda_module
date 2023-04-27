@@ -1,6 +1,6 @@
 # arms_fda_module
 
-Python Package to interact with the FDA's ARMS API.
+Python Package to interact with the USDA's ARMS API.
 
 ## Installation
 
